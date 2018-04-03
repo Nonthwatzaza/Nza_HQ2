@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Nza_HQ</string>
+    <string name="My_proflie_menu">My proflie</string>
+    //mainmenu text//
+    <string name="hi_nice">Hi! Nice to meet you</string>
+    <string name="camera_menu">Camera</string>
+    <string name="camera_menu_save_memory">Save your memory!!</string>
+    <string name="blue_menu">Bluetooth</string>
+    <string name="Outdoor_menu_bluetoth">Out door music!</string>
+    <string name="control_panel_menu">control panel</string>
+    <string name="set_cortrol_subtext_menu">Set! want you want!</string>
+    <string name="About_app">About app</string>
+    <string name="meet_them_all">meet them all!</string>
 </resources>
