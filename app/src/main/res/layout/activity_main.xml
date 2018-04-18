@@ -125,7 +125,7 @@
                     android:layout_width="64dp"
                     android:layout_height="64dp"
                     android:background="@drawable/cerclebackgroundyello"
-                    android:src="@drawable/ic_bluetooth_black_24dp"
+                    android:src="@drawable/ic_music_note_black_24dp"
                     android:padding="10dp"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -142,7 +142,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/blue_menu"
+                    android:text="Play some music !!"
                     android:padding="5dp"/>
 
 
